@@ -38,36 +38,43 @@
     <string name="answer_4_option_A">A. La línea peatonal.</string>
     <string name="answer_4_option_B">B. La línea imaginaria de prolongación de ochava.</string>
     <string name="answer_4_option_C">C. La línea de edificación transversal.</string>
+    <string name="pagina5">5/139</string>
 
     <string name="question_5">En materia de señalamiento horizontal o demarcación horizontal ¿qué se entiende por "isleta"? </string>
     <string name="answer_5_option_A">A. Son las marcas canalizadoras y orientadoras de tránsito. No se puede traspasar o circular sobre ellas.</string>
     <string name="answer_5_option_B">B. Son marcas en la calzada que indican lugares donde está permitido detenerse.</string>
     <string name="answer_5_option_C">C. Son marcas en la calzada que indican lugares donde está permitido estacionarse y/o detenerse.</string>
+    <string name="pagina6">6/139</string>
 
     <string name="question_6">Con carácter general, cuando nos encontramos con una señal de "PROHIBIDO ESTACIONAR" ¿está permitido parar para subir o bajar pasajeros de un automóvil?"</string>
     <string name="answer_6_option_A">A. Si.</string>
     <string name="answer_6_option_B">B. No.</string>
     <string name="answer_6_option_C">C. Según la hora.</string>
+    <string name="pagina7">7/139</string>
 
     <string name="question_7">¿Qué significa el término “culposo” en materia de accidentes de tránsito?</string>
     <string name="answer_7_option_A">A. Que es responsable por actuar con intención de provocar un daño.</string>
     <string name="answer_7_option_B">B. Que no obró con intención de provocar un daño.</string>
     <string name="answer_7_option_C">C. Que no estaba habilitado para conducir.</string>
+    <string name="pagina8">8/139</string>
 
     <string name="question_8">¿Cómo debe indicar a un vehículo que pretende sobrepasar al suyo que no debe hacerlo?</string>
     <string name="answer_8_option_A">A. Encendiendo las luces llamadas balizas.</string>
     <string name="answer_8_option_B">B. Accionando la luz indicadora de giro a la izquierda.</string>
     <string name="answer_8_option_C">C. Accionando la luz indicadora de giro a la derecha.</string>
+    <string name="pagina9">9/139</string>
 
     <string name="question_9">En la ciudad ¿está permitido circular marcha atrás?</string>
     <string name="answer_9_option_A">A. Sólo para estacionar, entrar o salir de un garaje (cuando no hay otra posibilidad) o salvar un obstáculo.</string>
     <string name="answer_9_option_B">B. Cuando es por pocos metros.</string>
     <string name="answer_9_option_C">C. Solamente de día.</string>
+    <string name="pagina10">10/139</string>
 
     <string name="question_10">¿Qué distancia debe dejarse libre cuando se va a estacionar frente a la entrada de hospitales, escuelas, templos u otros organismos públicos?</string>
     <string name="answer_10_option_A">A. 10 metros de cada lado de la entrada.</string>
     <string name="answer_10_option_B">B. Todo el frente del edificio.</string>
     <string name="answer_10_option_C">C. 5 metros de cada lado de la entrada.</string>
+    <string name="pagina11">11/139</string>
 
 
     <string name="question_11">Si circula con su vehículo en un día de niebla ¿qué precaución, entre otras, debe tomar?</string>
