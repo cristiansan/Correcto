@@ -6,12 +6,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
-public class PantallaDos extends AppCompatActivity {
+public class Pregunta1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.segunda_pantalla);
+        setContentView(R.layout.pregunta_1);
     }
 
     public void btnCorrect(View v)
@@ -32,7 +32,7 @@ public class PantallaDos extends AppCompatActivity {
 
     public void btnNext(View v)
     {
-        Intent intent = new Intent(getApplicationContext(), PantallaTres.class);
+        Intent intent = new Intent(getApplicationContext(), Pregunta2.class);
         startActivity(intent);
     }
     public void btnBack(View v)

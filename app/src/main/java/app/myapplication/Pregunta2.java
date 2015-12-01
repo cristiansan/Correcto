@@ -6,12 +6,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
-public class PantallaTres extends AppCompatActivity {
+public class Pregunta2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.tercera_pantalla);
+        setContentView(R.layout.pregunta_2);
     }
 
     public void btnCorrect(View v)
@@ -32,12 +32,12 @@ public class PantallaTres extends AppCompatActivity {
 
     public void btnNext(View v)
     {
-        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+        Intent intent = new Intent(getApplicationContext(), Pregunta3.class);
         startActivity(intent);
     }
     public void btnBack(View v)
     {
-        Intent intent = new Intent(getApplicationContext(), PantallaDos.class);
+        Intent intent = new Intent(getApplicationContext(), Pregunta1.class);
         startActivity(intent);
     }
 }

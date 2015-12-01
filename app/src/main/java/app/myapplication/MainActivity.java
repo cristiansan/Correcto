@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void btnNext(View v)
     {
-        Intent intent = new Intent(getApplicationContext(), PantallaDos.class);
+        Intent intent = new Intent(getApplicationContext(), Pregunta1.class);
         startActivity(intent);
     }
 
