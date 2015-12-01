@@ -6,7 +6,7 @@
         android:drawable="@drawable/juego_estadistica_presionado" />
     <item android:state_pressed="true"
         android:drawable="@drawable/juego_estadistica_presionado" />
-    <item android:drawable="@drawable/juego_estadistica" />
+    <item android:drawable="@android:drawable/ic_media_next" />
 
     <!--<item android:drawable="@drawable/juego_estadistica_presionado"
         android:state_pressed="true" />

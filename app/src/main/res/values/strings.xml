@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Trivia Registro Clase B</string>
+
+    <string name="pregunta1">Primer pregunta</string>
+    <string name="respuesta1_1">Respuesta 1</string>
+    <string name="respuesta1_2">Respuesta número 2</string>
+    <string name="respuesta1_3">Respuesta número tres</string>
+    <string name="pagina1">1/139</string>
+
+    <string name="pregunta2">Segunda pregunta, puede ser con imagen</string>
+    <string name="respuesta2_1">Respuesta 1 incorrecta</string>
+    <string name="respuesta2_2">Respuesta número 2 Correcta</string>
+    <string name="respuesta2_3">Respuesta número tres incorrecta</string>
+    <string name="pagina2">2/139</string>
+
+    <string name="pregunta3">Tercer pregunta</string>
+    <string name="respuesta3_1">Respuesta 1 incorrecta</string>
+    <string name="respuesta3_2">Respuesta número 2 inc</string>
+    <string name="respuesta3_3">Respuesta número tres correcta</string>
+    <string name="pagina3">3/139</string>
+
+
 </resources>

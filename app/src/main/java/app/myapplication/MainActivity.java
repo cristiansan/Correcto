@@ -23,12 +23,16 @@ public class MainActivity extends AppCompatActivity {
     {
         ImageView correct = (ImageView)findViewById(R.id.correcto);
         correct.setVisibility(View.VISIBLE);
+        ImageView incorrect = (ImageView)findViewById(R.id.incorrecto);
+        incorrect.setVisibility(View.INVISIBLE);
     }
 
     public void btnIncorrect(View v)
     {
-        ImageView correct = (ImageView)findViewById(R.id.incorrecto);
-        correct.setVisibility(View.VISIBLE);
+        ImageView incorrect = (ImageView)findViewById(R.id.incorrecto);
+        incorrect.setVisibility(View.VISIBLE);
+        ImageView correct = (ImageView)findViewById(R.id.correcto);
+        correct.setVisibility(View.INVISIBLE);
     }
 
     public void btnNext(View v)
