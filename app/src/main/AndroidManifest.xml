@@ -15,9 +15,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PantallaDos" >
+        <activity android:name=".Pregunta1" >
         </activity>
-        <activity android:name=".PantallaTres" >
+        <activity android:name=".Pregunta2" >
+        </activity>
+        <activity android:name=".Pregunta3" >
+        </activity>
+        <activity android:name=".Pregunta4" >
+        </activity>
+        <activity android:name=".Pregunta5" >
+        </activity>
+        <activity android:name=".Pregunta6" >
+        </activity>
+        <activity android:name=".Pregunta7" >
+        </activity>
+        <activity android:name=".Pregunta8" >
+        </activity>
+        <activity android:name=".Pregunta9" >
+        </activity>
+        <activity android:name=".Pregunta10" >
         </activity>
     </application>
 
